@@ -25,4 +25,4 @@ POC:
 2. Go into a post, write a comment, specify website as `http://localhost:8080`
 3. Receive a request on server side. 
 
-Status: Acknowledged
+Status: CVE-2023-49159
