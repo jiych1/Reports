@@ -25,7 +25,7 @@ private function remoteUpload(array $d) {
 POC:
 
 1. Listen on 8080 on server side
-2. Using the remote upload function, specify `url=http://localhost:8080`
+2. Using the remote upload function, specify `url=http://localhost:8080` `url=file:`
 3. Receive a request on server side. The full response is also disclosed
 
 Status: Acknowledged
